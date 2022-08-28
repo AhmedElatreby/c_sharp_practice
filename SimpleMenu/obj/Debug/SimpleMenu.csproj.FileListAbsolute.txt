@@ -1,0 +1,8 @@
+D:\computing\C#\c#_practice\SimpleMenu\bin\Debug\SimpleMenu.exe.config
+D:\computing\C#\c#_practice\SimpleMenu\bin\Debug\SimpleMenu.exe
+D:\computing\C#\c#_practice\SimpleMenu\bin\Debug\SimpleMenu.pdb
+D:\computing\C#\c#_practice\SimpleMenu\obj\Debug\SimpleMenu.csproj.AssemblyReference.cache
+D:\computing\C#\c#_practice\SimpleMenu\obj\Debug\SimpleMenu.csproj.SuggestedBindingRedirects.cache
+D:\computing\C#\c#_practice\SimpleMenu\obj\Debug\SimpleMenu.csproj.CoreCompileInputs.cache
+D:\computing\C#\c#_practice\SimpleMenu\obj\Debug\SimpleMenu.exe
+D:\computing\C#\c#_practice\SimpleMenu\obj\Debug\SimpleMenu.pdb
