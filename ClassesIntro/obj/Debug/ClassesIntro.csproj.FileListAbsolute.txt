@@ -1,0 +1,8 @@
+D:\computing\C#\c#_practice\ClassesIntro\bin\Debug\ClassesIntro.exe.config
+D:\computing\C#\c#_practice\ClassesIntro\bin\Debug\ClassesIntro.exe
+D:\computing\C#\c#_practice\ClassesIntro\bin\Debug\ClassesIntro.pdb
+D:\computing\C#\c#_practice\ClassesIntro\obj\Debug\ClassesIntro.csproj.AssemblyReference.cache
+D:\computing\C#\c#_practice\ClassesIntro\obj\Debug\ClassesIntro.csproj.SuggestedBindingRedirects.cache
+D:\computing\C#\c#_practice\ClassesIntro\obj\Debug\ClassesIntro.csproj.CoreCompileInputs.cache
+D:\computing\C#\c#_practice\ClassesIntro\obj\Debug\ClassesIntro.exe
+D:\computing\C#\c#_practice\ClassesIntro\obj\Debug\ClassesIntro.pdb

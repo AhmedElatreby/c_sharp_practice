@@ -1,0 +1,8 @@
+D:\computing\C#\c#_practice\UserInput\bin\Debug\UserInput.exe.config
+D:\computing\C#\c#_practice\UserInput\bin\Debug\UserInput.exe
+D:\computing\C#\c#_practice\UserInput\bin\Debug\UserInput.pdb
+D:\computing\C#\c#_practice\UserInput\obj\Debug\UserInput.csproj.AssemblyReference.cache
+D:\computing\C#\c#_practice\UserInput\obj\Debug\UserInput.csproj.SuggestedBindingRedirects.cache
+D:\computing\C#\c#_practice\UserInput\obj\Debug\UserInput.csproj.CoreCompileInputs.cache
+D:\computing\C#\c#_practice\UserInput\obj\Debug\UserInput.exe
+D:\computing\C#\c#_practice\UserInput\obj\Debug\UserInput.pdb

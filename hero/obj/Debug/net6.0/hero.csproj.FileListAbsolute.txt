@@ -1,0 +1,15 @@
+D:\computing\C#\c#_practice\hero\bin\Debug\net6.0\hero.exe
+D:\computing\C#\c#_practice\hero\bin\Debug\net6.0\hero.deps.json
+D:\computing\C#\c#_practice\hero\bin\Debug\net6.0\hero.runtimeconfig.json
+D:\computing\C#\c#_practice\hero\bin\Debug\net6.0\hero.dll
+D:\computing\C#\c#_practice\hero\bin\Debug\net6.0\hero.pdb
+D:\computing\C#\c#_practice\hero\obj\Debug\net6.0\hero.csproj.AssemblyReference.cache
+D:\computing\C#\c#_practice\hero\obj\Debug\net6.0\hero.GeneratedMSBuildEditorConfig.editorconfig
+D:\computing\C#\c#_practice\hero\obj\Debug\net6.0\hero.AssemblyInfoInputs.cache
+D:\computing\C#\c#_practice\hero\obj\Debug\net6.0\hero.AssemblyInfo.cs
+D:\computing\C#\c#_practice\hero\obj\Debug\net6.0\hero.csproj.CoreCompileInputs.cache
+D:\computing\C#\c#_practice\hero\obj\Debug\net6.0\hero.dll
+D:\computing\C#\c#_practice\hero\obj\Debug\net6.0\refint\hero.dll
+D:\computing\C#\c#_practice\hero\obj\Debug\net6.0\hero.pdb
+D:\computing\C#\c#_practice\hero\obj\Debug\net6.0\hero.genruntimeconfig.cache
+D:\computing\C#\c#_practice\hero\obj\Debug\net6.0\ref\hero.dll
